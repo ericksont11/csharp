@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+//comment
 
 namespace AreYouReady.ReadyCheck
 {
