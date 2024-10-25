@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 //comment
 //another one
+//number 2
 
 namespace AreYouReady.ReadyCheck
 {
