@@ -39,4 +39,4 @@ jobs:
 
       - name: Run tests from day 1
         working-directory: ./csharp/SdetBootcampDay1
-        run: dotnet test --framework ${{ matrix.framework }} --no-restore --no-build --verbosity normal --filter Name~SdetBootcampDay1\Exercises\TakeHomeExercises.cs
+        run: dotnet test --framework ${{ matrix.framework }} --no-restore --no-build --verbosity normal --filter Name~TakeHomeExercises
